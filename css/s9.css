@@ -1,0 +1,16 @@
+.myimage-div
+{
+    display:none;
+}
+.myimage-ssilka:hover+div
+{
+    display:block;
+}
+aside{
+    background: rgb(198, 234, 229);
+    float:left
+    padding-left 10xp;
+    padding-right 10xp;
+    width:18%;
+    height:1000px;
+}
