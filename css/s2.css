@@ -1,0 +1,11 @@
+Body{
+    background-color:azure;
+    color: blueviolet;
+    margin: 5px;
+    padding: 2xp;
+}
+header,
+footer{
+    text-align: center;
+    background-color:gainsboro;
+}

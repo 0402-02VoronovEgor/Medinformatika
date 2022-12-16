@@ -1,0 +1,20 @@
+Body{
+    background-color:azure;
+    color: blueviolet;
+    margin: 5px;
+    padding: 2xp;
+}
+header,
+footer{
+    text-align: right;
+    background-color:gainsboro;
+}
+nav{
+    background-color: gold;
+}
+h2,
+h3,
+h4{
+    color:rgb(11, 138, 85);
+    text-decoration-line: underline;
+}
