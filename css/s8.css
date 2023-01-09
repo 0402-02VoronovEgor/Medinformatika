@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+    color: rgb(50, 8, 90);
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.letter1 {
+    color:rgb(0, 0, 0);
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+header,
+footer {
+    text-align: center;
+    background-color: gainsboro;
+}
+p{
+    text-align:justify;
+    text-indent: 8ch;
+}
+p::first-letter {
+    font-size: 120%;
+    color:rgb(160, 66, 121) ;
+    text-decoration-line: underline;
+}
+h2,
+h3,
+h4 {
+    color:rgb(25, 40, 87);
+    text-decoration-line:underline;
+}
+.myimage-div{
+    display: none;
+}
+a.myimage-ssilka:hover+div {
+    display: block;
+}
