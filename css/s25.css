@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(225, 183, 191);
+    color:rgb(89, 67, 122);
+    font-family: 'sans-serif'
+}
+h1{
+    text-align:left;
+    font-size: 68px;
+}
+
+footer {
+    font-family:'sans-serif'
+}
+ul,
+nav{
+    background-color:rgb(89, 67, 122);
+    color: white;
+    font-family:'sans-serif'
+
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+    font-family: 'sans-serif';
+    
+}
+h3
+ {
+    text-align: center;
+    font-family: 'sans-serif';
+    font-size: 38px;
+}
+h4 {
+    font-size: 28px;
+    font-family: 'sans-serif'
+}
